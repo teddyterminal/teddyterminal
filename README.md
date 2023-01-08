@@ -11,7 +11,17 @@ I love coding in Python, and can get my way around R, Java, Javascript, and HTML
 Ask me about any of my projects! More stuff will be coming here soon, just as soon I figure out how to clone myself into a small army. 
 
 <p align="center">
-  <img width="200" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+  <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
+
 </p>
 
 
