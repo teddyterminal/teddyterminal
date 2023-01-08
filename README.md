@@ -8,7 +8,7 @@ Once in a while, I think it's cool enough to share with the world.
 
 I love coding in Python, and can get my way around R, Java, Javascript, and HTML/CSS. I'm interested in a lot of things - data science, visualization, politics, NLP, music, the meaning of life, and determining why the smallest drink at Starbucks is called a _tall_. 
 
-Ask me about any of my projects! More stuff will be coming here soon, just as soon I figure out how to clone myself into a small army. 
+Ask me about any of my projects! More stuff will be coming here soon, just as soon I figure out how to clone myself into a small army:
 
 <p align="center">
   <img width="80" src="https://github.com/teddyterminal/teddyterminal/blob/main/teddy.jpeg">
